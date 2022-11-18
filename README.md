@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MAx
+- 👋 Hi, I’m Max
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning English and web development 
 - 💞️ I'm looking for a job as a web developer. I have a [portfolio](https://conservative.netlify.app)
