@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Max
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning English, JavaScript, TypeScript, Node, Nest, SQL
-- 💞️ I'm looking for a job as a web developer. I have a [portfolio](https://conservative-portfolio.netlify.app/)
+- 💞️ I'm looking for a job as a web developer. I have a [portfolio](https://nextjs-portfolio-conservative.vercel.app/)
 - 📫 How to reach me: [linkedin](https://linkedin.com/in/maksim-kisialiou-b87865241), [telegram](https://t.me/conservariv)
 
 <!---
